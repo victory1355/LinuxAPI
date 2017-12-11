@@ -1,2 +1,6 @@
-# LinuxAPI
-练习Linux的提供的一些接口
+# LinuxAPI训练营
+
+- [x] ***站在巨人的肩膀上***
+
+`Author: zhanxuegui
+ Date:   2017/12/11`
